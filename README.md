@@ -1,6 +1,10 @@
 ## Welcome to My Page
 
-### This lage belongs to Harshit Gupta, and is currently meant to serve any and all the contents that are most likely required to be shown to you all. Keep surfing the page, and I hope you'll like it.
+### This page belongs to Harshit Gupta, and is currently meant to serve any and all the contents that are most likely required to be shown to you all. Keep surfing the page, and I hope you'll like it.
+
+#### Some links:
+- [Module 2 Solution](https://git-harshit.github.com/Web-Repo-Coursera/mod2_solution)
+- [Module 3 Solution](https://git-harshit.github.com/Web-Repo-Coursera/mod3_solution)
 
 ---
 

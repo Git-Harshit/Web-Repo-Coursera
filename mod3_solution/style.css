@@ -1,0 +1,55 @@
+body {
+    max-width: 100%;
+    min-height: 150vmax;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1.main-head {
+    color: darkslategrey;
+    text-shadow: 1px 0.5px gainsboro ;
+    padding: .5em auto;
+}
+
+body article {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 10pt auto;
+    padding: 2pt;
+}
+
+article .label {
+    color: #000;
+    font-weight: bold;
+    padding: .5em 0;
+}
+
+article div {
+    color: white;
+    background: gray;
+    border: 2px solid darkgray;
+}
+
+article div p {
+    min-height: 20em;
+}
+
+/* Desktop version */
+@media (min-width:992px) {
+    p {
+        min-height: 3em;
+    }
+    body article div:hover {
+        background-color: lightgray;
+        border-color: gray;
+    }
+}
+
+/* Mobile version */
+@media (max-width:767px) {
+    article div p {
+       min-height: 4em; 
+    }
+}
