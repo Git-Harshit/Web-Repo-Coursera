@@ -3,13 +3,13 @@
 ### This page belongs to Harshit Gupta, and is currently meant to serve any and all the contents that are most likely required to be shown to you all. Keep surfing the page, and I hope you'll like it.
 
 #### Some links:
-- [Module 2 Solution](https://git-harshit.github.com/Web-Repo-Coursera/mod2_solution)
-- [Module 3 Solution](https://git-harshit.github.com/Web-Repo-Coursera/mod3_solution)
+- [Module 2 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod2_solution)
+- [Module 3 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod3_solution)
 
 ---
 
 ###### Note:
-You can use the [editor on GitHub](https://github.com/Git-Harshit/Web-Repo-Coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Git-Harshit/Web-Repo-Coursera/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
