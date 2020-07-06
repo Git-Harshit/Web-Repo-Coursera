@@ -5,11 +5,15 @@
 #### Some links:
 - [Module 2 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod2_solution)
 - [Module 3 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod3_solution)
+- [Module 4 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod4_solution)
+
+##### See Also:
+- [My HomePage](https://git-harshit.github.io/)
 
 ---
 
 ###### Note:
-You can use the [editor on GitHub](https://github.com/Git-Harshit/Web-Repo-Coursera/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
+The [editor on GitHub](https://github.com/Git-Harshit/Web-Repo-Coursera/edit/master/README.md) can be used to maintain and preview the content for this website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
