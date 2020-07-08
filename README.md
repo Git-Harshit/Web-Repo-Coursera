@@ -6,6 +6,7 @@
 - [Module 2 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod2_solution)
 - [Module 3 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod3_solution)
 - [Module 4 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod4_solution)
+- [Module 5 Solution](https://git-harshit.github.io/Web-Repo-Coursera/mod5_solution)
 
 ##### See Also:
 - [My HomePage](https://git-harshit.github.io/)
